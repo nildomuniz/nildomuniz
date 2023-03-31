@@ -17,3 +17,5 @@
 ![SQLLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Github](https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=Grubhub&logoColor=white)
 
+### Meus Projetos:
+[![Kaglle](https://img.shields.io/badge/Grubhub-F63440?style=for-the-badge&logo=Grubhub&logoColor=white)](https://github.com/nildomuniz/ebac-analista-dados)
